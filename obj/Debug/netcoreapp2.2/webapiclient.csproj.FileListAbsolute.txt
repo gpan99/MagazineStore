@@ -1,0 +1,12 @@
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.exe
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.deps.json
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.runtimeconfig.json
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.runtimeconfig.dev.json
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.dll
+C:\Users\george pan\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiclient.pdb
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.csprojAssemblyReference.cache
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.csproj.CoreCompileInputs.cache
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.AssemblyInfoInputs.cache
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.AssemblyInfo.cs
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.dll
+C:\Users\george pan\Source\Repos\MagazineStore\obj\Debug\netcoreapp2.2\webapiclient.pdb
