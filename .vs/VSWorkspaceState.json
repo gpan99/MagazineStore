@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\netcoreapp2.2"
   ],
   "SelectedNode": "\\webapiclient.sln",
   "PreviewInSolutionExplorer": false

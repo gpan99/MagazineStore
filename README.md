@@ -14,7 +14,7 @@ and `await`, converting JSON objects into C# objects, and terminal output.
 Build and Run
 -------------
 
-To build and run the sample, type the following two commands:
+To build and run the sample, type the following commands:
 
 upgrade SDK to .NET Core 2.2 if you have not done so
 https://dotnet.microsoft.com/download/dotnet-core/2.2
@@ -28,7 +28,3 @@ else it won't open project in your visual studio 2017
 `dotnet run` builds the sample and runs the output assembly.
 
 [!INCLUDE[DotNet Restore Note](~/includes/dotnet-restore-note.md)]
-
-To test the console application in from starting debug in visual studio
-or double on C:\Users\<your user uame>\Source\Repos\MagazineStore\bin\Debug\netcoreapp2.2\webapiClient.exe
-
