@@ -14,12 +14,12 @@ and `await`, converting JSON objects into C# objects, and terminal output.
 Build and Run
 -------------
 
-To build and run the sample, type the following commands:
-
 upgrade SDK to .NET Core 2.2 if you have not done so
 https://dotnet.microsoft.com/download/dotnet-core/2.2
 by downloading (double click) on .NET Core Installer link
-else it won't open project in your visual studio 2017 
+else it won't open project in visual studio 2017 
+
+To build and run the sample, type the following commands:
 
 `dotnet restore`
 `dotnet run`
