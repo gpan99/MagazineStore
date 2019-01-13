@@ -21,8 +21,11 @@ else it won't open project in visual studio 2017
 
 To build and run the sample, type the following commands:
 
-`dotnet restore`
-`dotnet run`
+1. open command window from window start
+2. go to root installation
+
+3. `dotnet restore`
+4. `dotnet run`
 
 `dotnet restore` restores the dependencies for this sample.
 `dotnet run` builds the sample and runs the output assembly.
